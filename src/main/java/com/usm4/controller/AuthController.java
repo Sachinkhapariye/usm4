@@ -91,4 +91,7 @@ public class AuthController {
     //@AuthenticationPrincipal it automatically based on the current user loggedin it will automatically fetched the user detail
 
 //Hello Sacchin khapariye
+    //wrserfyghuj
+    //FGHBJN
+    //edfghj
 }
