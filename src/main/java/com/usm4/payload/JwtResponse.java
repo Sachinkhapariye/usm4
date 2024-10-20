@@ -8,3 +8,5 @@ public class JwtResponse {
     private String type="Bearer";
     private String token;
 }
+
+//Hello JwtResponse
