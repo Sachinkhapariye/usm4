@@ -13,3 +13,5 @@ public class UserDto { //Pojo class dto - data transfer object class
     private String userRole;
 
 }
+//Hii This is UserDto Payload Class
+//And I am sachin khapariye 
